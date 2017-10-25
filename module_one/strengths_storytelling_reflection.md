@@ -8,6 +8,8 @@ Build on your professional story by thinking about how you're progressing at Tur
 
 * Write a story about your Turing experience so far: When have you struggled? How have you dealt with struggle? When have you succeeded at Turing? How did you accomplish those successes?
 
+-My time at Turing so far has challenged me to not take my current state of mind at face value.  Meaning that over the course of a week, I will find myself down in the dumps about my current progress or doubting that I'm far enough along to keep up with the rest of the module.  When things aren't going my way, in terms of my work progress... (to be continued)
+
 * Answer the question: how does your Turing story end? Create a vision for your future and your career transition into being a junior developer.
 
 * After you practice storytelling in the session, answer this question: What was particularly easy or difficult about telling your story? What are 1-2 steps that you can take to continue to improve your abilities to tell your story, talk about yourself with ease, and examine your strengths?
